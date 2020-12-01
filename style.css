@@ -1,0 +1,16 @@
+body{
+    display: inline;
+    align-items: center;
+    justify-content: space-between;
+    background-image: linear-gradient(to top, #fad0c4 0%, #ffd1ff 100%);
+}
+button{
+    padding: .5px;
+    border: .2px solid white;
+}
+.btnn{
+    display: flex;
+    justify-content: space-around;
+    cursor: pointer;
+    align-items: center;
+}
